@@ -1,0 +1,5110 @@
+{
+  "doc-5d45fc8f2377579e9b55b2d676e325c1": {
+    "relation_pairs": [
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Unidade de Áudio"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Câmera de Ré"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Wiper System"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Gerenciamento da Bateria"
+      ],
+      [
+        "Park (P)",
+        "Transmission"
+      ],
+      [
+        "Controle de Tração",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Indicador de Manutenção do Motor"
+      ],
+      [
+        "Sistema de Áudio",
+        "Veículos Com: SYNC 2.5"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Pressões dos Pneus"
+      ],
+      [
+        "Electric Connector",
+        "License Plate Light"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Passive Anti-Theft System"
+      ],
+      [
+        "Ford",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicle Dimensions"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Direção com Assistência Elétrica"
+      ],
+      [
+        "Ford",
+        "Ford Assistance"
+      ],
+      [
+        "Manutenção",
+        "Unidade de Áudio"
+      ],
+      [
+        "Câmera",
+        "Câmera de Ré"
+      ],
+      [
+        "Chave de Ignição",
+        "Veículo"
+      ],
+      [
+        "Luz do Compartimento de Bagagem",
+        "Lâmpada Traseira"
+      ],
+      [
+        "Condições De Operação",
+        "Luz De Aviso Do Cinto De Segurança"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Manual Transmission"
+      ],
+      [
+        "Amortecedores",
+        "Ford Motor Company Brazil Ltda."
+      ],
+      [
+        "Crianças",
+        "Estatísticas de Acidentes"
+      ],
+      [
+        "F09",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Power Steering Assistance"
+      ],
+      [
+        "Figo/Ka",
+        "Obstacles"
+      ],
+      [
+        "Aviso de Baixa Pressão dos Pneus",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "luzes de leitura"
+      ],
+      [
+        "Pneus",
+        "Veículo"
+      ],
+      [
+        "Bluetooth",
+        "Sistema de Áudio"
+      ],
+      [
+        "Assistente de Estacionamento",
+        "Reboque"
+      ],
+      [
+        "Portas",
+        "Veículo"
+      ],
+      [
+        "Execução de Mídia em um Dispositivo USB",
+        "Porta USB"
+      ],
+      [
+        "Collision",
+        "Safety Guidelines"
+      ],
+      [
+        "Sistema de Alerta Pós-Colisão",
+        "Veículo"
+      ],
+      [
+        "F11",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicle Emission Control System"
+      ],
+      [
+        "Airbag",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Brake",
+        "Figo/Ka"
+      ],
+      [
+        "Fluido de Arrefecimento do Motor",
+        "Sistema"
+      ],
+      [
+        "Climatização do Veículo",
+        "Desempenho Máximo de Resfriamento"
+      ],
+      [
+        "F12",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Fabricante",
+        "Veículo"
+      ],
+      [
+        "Limpador Químico",
+        "Rodinhas"
+      ],
+      [
+        "Automatic Transmission",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Transmissão Automática"
+      ],
+      [
+        "Dispositivos de Radiocomunicação",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Classificação do Fusível",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Sistema de Áudio",
+        "TA (Aviso de Tráfego)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Oil Pressure Warning Light"
+      ],
+      [
+        "Concessionária Ford",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Segurança das Crianças"
+      ],
+      [
+        "Brake Fluid",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Espelhos Retrovisores",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Concessionária Ford",
+        "Freio de Estacionamento"
+      ],
+      [
+        "AM/FM/Bluetooth",
+        "Veículos"
+      ],
+      [
+        "Vehicle Maintenance",
+        "Weather Conditions"
+      ],
+      [
+        "Figo/Ka",
+        "Número de Identificação do Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Aviso do Airbag"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Ford Distributor"
+      ],
+      [
+        "Cinto De Segurança",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Componentes Protegidos",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Headlights"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmission Specifications"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "SAE 5W-20"
+      ],
+      [
+        "Do Not Disturb",
+        "MyKey"
+      ],
+      [
+        "Módulo de Controle de Segurança",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmissão Automática"
+      ],
+      [
+        "1.5L Flex Fuel Engine",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "MyKey™",
+        "Parking Assistance System"
+      ],
+      [
+        "OBDBr-2+",
+        "Sistema de Emissão"
+      ],
+      [
+        "FREESTYLE",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Manutenção",
+        "Troca de Roda"
+      ],
+      [
+        "Aquecimento do Vidro Traseiro",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Áudio"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Freio de Estacionamento"
+      ],
+      [
+        "Accommodation",
+        "Ford Assistance"
+      ],
+      [
+        "Cintos de segurança",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Querosene"
+      ],
+      [
+        "Audio Formats",
+        "SYNC 2.5"
+      ],
+      [
+        "F71",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Ford",
+        "Oil Level"
+      ],
+      [
+        "Assistência de Freio e Direção",
+        "Sistema de Direção com Assistência Eletrônica"
+      ],
+      [
+        "Safety Guidelines",
+        "Vehicle Occupants"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Pneumatic Tires"
+      ],
+      [
+        "Figo/Ka",
+        "Vareta Medidora do Nível do Óleo"
+      ],
+      [
+        "Autonomia Restante",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Cortesia",
+        "Figo/Ka"
+      ],
+      [
+        "Assistente de Estacionamento",
+        "Sensor de Auxílio de Estacionamento Traseiro"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Luzes de Condução Diurna"
+      ],
+      [
+        "Peças Genuínas Ford",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicles Built From: 29-06-2020"
+      ],
+      [
+        "Acessórios Originais Ford",
+        "Qualidade, Garantia, Procedência e Preço Competitivo"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Unidade de Controle Aquecedor"
+      ],
+      [
+        "Airbags",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Painel de Instrumentos"
+      ],
+      [
+        "A/C",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Componente de Controle de Emissões",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Advertência do Sistema de Freios"
+      ],
+      [
+        "Ford Distributor",
+        "MyKey"
+      ],
+      [
+        "1.0L",
+        "240.000 km"
+      ],
+      [
+        "Interior Light",
+        "Light Socket"
+      ],
+      [
+        "Airbags",
+        "Banco Dianteiro"
+      ],
+      [
+        "Airbags",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Verificações Mensais"
+      ],
+      [
+        "Figo/Ka",
+        "Luz do Assoalho"
+      ],
+      [
+        "Cinto De Segurança",
+        "Lembrete Do Cinto De Segurança"
+      ],
+      [
+        "Figo/Ka",
+        "Repetidor Lateral"
+      ],
+      [
+        "Assistance Services",
+        "Ford Assistance"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fusível MEGA"
+      ],
+      [
+        "Concessionárias",
+        "Garantia"
+      ],
+      [
+        "Bateria",
+        "Veículo"
+      ],
+      [
+        "Ignition Key",
+        "Motor"
+      ],
+      [
+        "Indicador de Manutenção do Motor Imediata",
+        "OBDBr-2+"
+      ],
+      [
+        "Cinto de Segurança",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Figo/Ka",
+        "Odômetro"
+      ],
+      [
+        "Obstacles",
+        "Speed"
+      ],
+      [
+        "Limpeza do Exterior",
+        "Manutenção"
+      ],
+      [
+        "Ford Motor Company Brasil Ltda.",
+        "Rede de Distribuidores"
+      ],
+      [
+        "condensação",
+        "faróis dianteiros externose lanternas traseiras"
+      ],
+      [
+        "Android",
+        "SYNC 2.5"
+      ],
+      [
+        "F47",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Passive Anti-Theft Mode",
+        "Passive Anti-Theft System"
+      ],
+      [
+        "Airbag",
+        "Módulo do Airbag"
+      ],
+      [
+        "Figo/Ka",
+        "Lâmpada"
+      ],
+      [
+        "1.0L Flex Fuel Engine",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "MyKey"
+      ],
+      [
+        "Figo/Ka",
+        "Parking Assistance System"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Warning Lights"
+      ],
+      [
+        "Piloto Automático",
+        "Sistema"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmissão Manual de 5 Marchas"
+      ],
+      [
+        "Concessionárias Ford",
+        "Ford Assistance"
+      ],
+      [
+        "Concessionária Ford",
+        "Sistema de Controle de Emissões"
+      ],
+      [
+        "Alinhamento",
+        "Veículo"
+      ],
+      [
+        "Cinto de Ombro",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Interruptor do Pisca-Alert"
+      ],
+      [
+        "Concessionárias Ford",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Ar Condicionado",
+        "Controle de Climatização"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fluido Do Limpador De Para-Brisa"
+      ],
+      [
+        "Console Central",
+        "My Ford Dock"
+      ],
+      [
+        "Extintor de Incêndio",
+        "Resolução do CONTRAN 556"
+      ],
+      [
+        "Figo/Ka",
+        "SYNC 2.5"
+      ],
+      [
+        "Figo/Ka",
+        "Gasoline Tipo C"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Odômetro"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Rear Windows"
+      ],
+      [
+        "Cleaning Products",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Câmera de Ré",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Sistema Antifurto Passivo",
+        "Veículo"
+      ],
+      [
+        "Configurações de Rádio",
+        "Sistema de Áudio"
+      ],
+      [
+        "Engine Starter",
+        "Ignition Key"
+      ],
+      [
+        "Figo/Ka",
+        "Rodas e Pneus"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Low Fuel Level Warning Light"
+      ],
+      [
+        "Manual Adjustment",
+        "Vehicle Control"
+      ],
+      [
+        "Airbags",
+        "Capa de Banco"
+      ],
+      [
+        "Condução Econômica",
+        "Fuel Economy"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistemas Auxiliares de Estacionamento"
+      ],
+      [
+        "Airbags",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Airbags",
+        "Crianças"
+      ],
+      [
+        "Configurações de Som",
+        "Sistema de Áudio"
+      ],
+      [
+        "Motor",
+        "Temperature"
+      ],
+      [
+        "Compartimento de Bagagem",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fusível MIDI"
+      ],
+      [
+        "Sistema de Arrefecimento",
+        "Veículo"
+      ],
+      [
+        "Apoios de Cabeça",
+        "Bancos"
+      ],
+      [
+        "1.5L",
+        "160.000 km"
+      ],
+      [
+        "Fusíveis",
+        "Motor de Direção com Assistência Elétrica"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Ford Motor Company Brazil Ltda."
+      ],
+      [
+        "Aviso de Uso dos Cintos de Segurança",
+        "MyKey"
+      ],
+      [
+        "Combustível",
+        "Distribuidor Ford"
+      ],
+      [
+        "Distance Indicator",
+        "Figo/Ka"
+      ],
+      [
+        "Reconhecimento de Voz",
+        "Sistema"
+      ],
+      [
+        "Motor",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "SYNC 2.5"
+      ],
+      [
+        "F51",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "AM/FM/Bluetooth",
+        "USB Port"
+      ],
+      [
+        "Motor",
+        "Sistema de Escapamento"
+      ],
+      [
+        "165/70 R14",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Antiesmagamento",
+        "Concessionária Ford"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmissão Automática de 6 Marchas"
+      ],
+      [
+        "Combustível com Chumbo",
+        "Motor"
+      ],
+      [
+        "Ford Motor Company Brazil Ltda.",
+        "Peças de Desgaste Natural"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Advertência"
+      ],
+      [
+        "BCM (Módulo de Controle da Carroceria)",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Porta USB",
+        "Veículos Com: AM/FM/Bluetooth"
+      ],
+      [
+        "Aprendizagem Adaptável",
+        "Sistema de Direção com Assistência Elétrica"
+      ],
+      [
+        "Cleaning Products",
+        "Neutral Soap"
+      ],
+      [
+        "Cintos de Segurança",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Visor de Informações"
+      ],
+      [
+        "Engine Starter",
+        "Ethanol"
+      ],
+      [
+        "Child Restraint Device",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Dimensões do Veículo - 4 Portas",
+        "Figo/Ka"
+      ],
+      [
+        "Extintor de Incêndio",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Lâmpadas da Luz de Freio Central Superior"
+      ],
+      [
+        "Alternador",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka",
+        "Pressões dos Pneus"
+      ],
+      [
+        "Ford",
+        "Limpador de Roda"
+      ],
+      [
+        "Assento de Elevação",
+        "Crianças"
+      ],
+      [
+        "Distribuidor Ford",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Manutenção",
+        "Vareta Medidora do Nível do Óleo do Motor"
+      ],
+      [
+        "High-Pressure Washer",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Módulo do Controle de Climatização"
+      ],
+      [
+        "Estepe",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Exterior Cleaning",
+        "High-Pressure Wash"
+      ],
+      [
+        "Fraturas",
+        "Lesões Internas"
+      ],
+      [
+        "Figo/Ka",
+        "Lanterna Traseira e Farol de Neblina Traseiro"
+      ],
+      [
+        "Brazil",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "SecuriLock®"
+      ],
+      [
+        "Airbag",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Brake Light",
+        "Light Socket"
+      ],
+      [
+        "Apple CarPlay",
+        "Sync 2.5"
+      ],
+      [
+        "Bancos de Regulagem Manual",
+        "Console Central"
+      ],
+      [
+        "Controle de Estabilidade",
+        "Sistema"
+      ],
+      [
+        "Easy-Start",
+        "Figo/Ka"
+      ],
+      [
+        "Cinto De Segurança",
+        "Luz De Aviso Do Cinto De Segurança"
+      ],
+      [
+        "Automatic Shutdown",
+        "Battery"
+      ],
+      [
+        "Bateria CR2032",
+        "Transmissor Integrado"
+      ],
+      [
+        "Bancos",
+        "Tapete de Carga"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "SYNC 2.5"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fluido De Transmissão Automática"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sound System"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "WSS-M97B44-D"
+      ],
+      [
+        "Figo/Ka",
+        "Gasolina"
+      ],
+      [
+        "Chave de Roda",
+        "Macaco"
+      ],
+      [
+        "5000 km",
+        "Oil Consumption"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Spare Key"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Tire Pressure Specifications"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Transmission"
+      ],
+      [
+        "Ignition",
+        "Tanque de Combustível"
+      ],
+      [
+        "Crianças",
+        "Sistema de Fixação de Crianças"
+      ],
+      [
+        "Concessionária Ford",
+        "Motor"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Ré"
+      ],
+      [
+        "Emergency Assistance",
+        "MyKey"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicle Operation Instructions"
+      ],
+      [
+        "Bancos",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Cinto De Segurança",
+        "Distribuidor Ford"
+      ],
+      [
+        "Box Rápido Motorcraft®",
+        "Concessionária Ford"
+      ],
+      [
+        "Chave",
+        "Distribuidor Ford"
+      ],
+      [
+        "CNC (Comissão Nacional de Comunicação)",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Cleaning Chemicals",
+        "Exterior Cleaning"
+      ],
+      [
+        "Gasolina Aditivada",
+        "Reservatório de Combustível"
+      ],
+      [
+        "Caixa de Fusíveis do Compartimento do Motor",
+        "Figo/Ka"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema de Antifurto Passivo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Tire Pressure Warning Light"
+      ],
+      [
+        "Figo/Ka",
+        "Ford"
+      ],
+      [
+        "Headrest",
+        "Vehicle Occupants"
+      ],
+      [
+        "MyKey",
+        "Passive Anti-Theft System"
+      ],
+      [
+        "Ford Motor Company Brasil Ltda",
+        "Rádio AM/FM"
+      ],
+      [
+        "F22",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Pneus",
+        "Rodízio dos Pneus"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Motor"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Sistema de Combustível"
+      ],
+      [
+        "Sistema de Áudio",
+        "TA"
+      ],
+      [
+        "Combustível Diesel",
+        "Motor"
+      ],
+      [
+        "Ford Ka",
+        "Owner's Manual"
+      ],
+      [
+        "Controle de Climatização",
+        "Vidro Traseiro Aquecido"
+      ],
+      [
+        "MyKey",
+        "MyKey Creation"
+      ],
+      [
+        "Capacidade de Carga",
+        "Veículo"
+      ],
+      [
+        "Cuidado",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Luz de Ré"
+      ],
+      [
+        "F33",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Distributor Ford",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Número do Fusível"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "Número Sequencial do Motor"
+      ],
+      [
+        "Iluminação",
+        "Veículo"
+      ],
+      [
+        "Ford Motor Company Brazil Ltda.",
+        "M7BX19A321AB ptBRA"
+      ],
+      [
+        "Figo/Ka",
+        "Sistema de Áudio"
+      ],
+      [
+        "Dispositivo Bluetooth®",
+        "Veículos Com: SYNC 2.5"
+      ],
+      [
+        "24-Hour Assistance",
+        "Ford Assistance"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Safety Belts"
+      ],
+      [
+        "Contran",
+        "Sistema de Fixação de Crianças"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "luz de cortesia"
+      ],
+      [
+        "Brazil",
+        "Figo/Ka"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Velocidade Média"
+      ],
+      [
+        "Child Safety Locks",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Espelhos Elétricos",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Filtro de Ar da Cabine",
+        "Sistema de Filtragem de Partículas"
+      ],
+      [
+        "Reboque",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Stability Control and Traction Light"
+      ],
+      [
+        "Hodômetro",
+        "Período de Amaciamento do Motor"
+      ],
+      [
+        "1.5L",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Ford"
+      ],
+      [
+        "F4",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Condições de Baixa Tensão",
+        "Sistema de Gerenciamento da Bateria"
+      ],
+      [
+        "Gasolina",
+        "Octano"
+      ],
+      [
+        "Figo/Ka",
+        "Transmissão Manual"
+      ],
+      [
+        "Antiesmagamento",
+        "Window Movement Conditions"
+      ],
+      [
+        "Rádio AM/FM",
+        "Sistema de Áudio"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Refrigerante - R-134A"
+      ],
+      [
+        "MyKey",
+        "MyKey Programming Cancellation"
+      ],
+      [
+        "Ford Assistance",
+        "Vehicle Maintenance"
+      ],
+      [
+        "Interruptor de Ignição",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Painel"
+      ],
+      [
+        "Cuidado",
+        "Macaco"
+      ],
+      [
+        "Figo/Ka",
+        "Interruptor"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Pisca-Alert"
+      ],
+      [
+        "Communications Mobile Equipment",
+        "Legislation"
+      ],
+      [
+        "Concessionária Ford",
+        "Extintor de Incêndio"
+      ],
+      [
+        "Gasolina Aditivada",
+        "Motor"
+      ],
+      [
+        "Assento de Elevação",
+        "Resolução Nº 277/08 do Contran"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Número Sequencial do Motor"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "WSS-M6C65-A2"
+      ],
+      [
+        "Sensores de Impacto",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Admin Key",
+        "MyKey"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmission Fluids"
+      ],
+      [
+        "Partida do Motor a Gasolina",
+        "Transmissão Automática"
+      ],
+      [
+        "Ar Condicionado",
+        "Vidro Traseiro Aquecido"
+      ],
+      [
+        "MyKey",
+        "Remote Start System"
+      ],
+      [
+        "Sistema",
+        "Óleo do Motor"
+      ],
+      [
+        "1.0L Flex Fuel",
+        "Número Sequencial do Motor"
+      ],
+      [
+        "Figo/Ka",
+        "Manutenção Programada"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmissão Manual"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "USB Port"
+      ],
+      [
+        "Direção Assistida",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Airbags Dianteiros",
+        "Colisões Frontais"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Limpeza do Exterior"
+      ],
+      [
+        "Assentos do Veículo",
+        "Cintos de Segurança"
+      ],
+      [
+        "Figo/Ka",
+        "M7BX19A321AB"
+      ],
+      [
+        "3000 km",
+        "Oil Consumption"
+      ],
+      [
+        "Configurações de Aquecimento Recomendadas",
+        "Controle de Climatização"
+      ],
+      [
+        "Airbags",
+        "Cinto De Segurança"
+      ],
+      [
+        "Airbag Dianteiro",
+        "Veículo"
+      ],
+      [
+        "Extintor de Incêndio",
+        "Procedimento de Instalação"
+      ],
+      [
+        "Aviso da Ventoinha",
+        "Veículo"
+      ],
+      [
+        "Bancos",
+        "Compartimento de Segurança"
+      ],
+      [
+        "Figo/Ka",
+        "Veículo"
+      ],
+      [
+        "Android Auto",
+        "Sync 2.5"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Luz Indicadora de Troca de Marcha"
+      ],
+      [
+        "F10",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Bagageiro de Teto",
+        "Veículo"
+      ],
+      [
+        "Luz de Posição",
+        "Lâmpadas Incandescentes"
+      ],
+      [
+        "F140",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Concessionária Ford",
+        "Ford Assistance"
+      ],
+      [
+        "Menu",
+        "Sistema de Áudio"
+      ],
+      [
+        "Bateria de 12 V",
+        "Transmissão Automática"
+      ],
+      [
+        "Bateria",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Catalisador",
+        "Sistema de Emissão"
+      ],
+      [
+        "Dispositivos de Armazenagem",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Graxa",
+        "Veículo"
+      ],
+      [
+        "Compartimento de Bagagem",
+        "Destravamento Inteligente"
+      ],
+      [
+        "Cintos de Segurança",
+        "Segurança das Crianças"
+      ],
+      [
+        "Fusíveis",
+        "Tabela de Especificações dos Fusíveis"
+      ],
+      [
+        "Admin Key",
+        "Keyless Start"
+      ],
+      [
+        "Fuel Economy",
+        "Vehicle Maintenance"
+      ],
+      [
+        "Figo/Ka",
+        "Luz do Compartimento de Bagagem"
+      ],
+      [
+        "Assistência de Frenagem",
+        "Sistema de Freio Antitravamento"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Ignition Button"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "M7BX19A321AB"
+      ],
+      [
+        "Daytime Running Lights",
+        "Electric Connector"
+      ],
+      [
+        "Doors and Locks",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Torque da Porca de Roda"
+      ],
+      [
+        "E100",
+        "Figo/Ka"
+      ],
+      [
+        "Alarme Perimétrico",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Bateria Auxiliar",
+        "Cabos da Bateria"
+      ],
+      [
+        "Catalisador",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Airbags",
+        "Princípios De Funcionamento"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Veículo"
+      ],
+      [
+        "Catalisador",
+        "Mistura Ar-Combustível"
+      ],
+      [
+        "Calibragem do Pneu",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Legislation"
+      ],
+      [
+        "Combustível",
+        "Hodômetro"
+      ],
+      [
+        "Indicator Light",
+        "Temperature"
+      ],
+      [
+        "Lâmpadas Incandescentes",
+        "Tabela de Especificações de Lâmpadas"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Caixa de Fusíveis de Alta Corrente"
+      ],
+      [
+        "Figo/Ka",
+        "Piloto Automático"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Fluido da Direção Assistida",
+        "Motor de Veículo"
+      ],
+      [
+        "Complexo Industrial Ford Nordeste",
+        "Ford"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Traction Control System"
+      ],
+      [
+        "Driving Tips",
+        "Tapetes"
+      ],
+      [
+        "Acidente",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Figo/Ka (CDS) Brazil, Vehicles Built From: 29-06-2020, M7BX19A321AB ptBRA"
+      ],
+      [
+        "Concessionária Ford",
+        "Peças Originais Ford"
+      ],
+      [
+        "Coolant Level",
+        "Ford"
+      ],
+      [
+        "Especificações do Motor - 1.0L Flex Fuel",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Farol de Neblina Traseiro",
+        "Lâmpada Traseira"
+      ],
+      [
+        "Child Restraint Device",
+        "Vehicle Seating Positions"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Tabela de Especificações dos Fusíveis"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Motor Flex"
+      ],
+      [
+        "Figo/Ka",
+        "Metanol"
+      ],
+      [
+        "Control of Audio",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Filtro de Ar do Motor"
+      ],
+      [
+        "Ajuste Da Altura Do Cinto De Segurança",
+        "Cinto De Segurança"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Torque da Porca de Roda"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Internal Sensors"
+      ],
+      [
+        "SYNC 2.5",
+        "iOS"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Advertência do Sistema de Antitravamento"
+      ],
+      [
+        "Controle de Estabilidade",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Faixa de Frequência MHz",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Stability Control System"
+      ],
+      [
+        "Concessionárias",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Ford Motor Company",
+        "Owner's Manual"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistema Antifurto Passivo"
+      ],
+      [
+        "Assistência de Partida em Rampas",
+        "Figo/Ka"
+      ],
+      [
+        "Deslocamento da Transmissão",
+        "Freio de Estacionamento"
+      ],
+      [
+        "Assistência elétrica da direção",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Combustíveis de Baixa Qualidade",
+        "Motor"
+      ],
+      [
+        "Auxílios à Condução",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Sistema de Áudio",
+        "Volume Ajustável"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Piloto Automático"
+      ],
+      [
+        "Bateria Auxiliar",
+        "Veículo"
+      ],
+      [
+        "Dispositivo de Fixação de Crianças",
+        "Sistema ISOFIX"
+      ],
+      [
+        "Controle de tração",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Macaco"
+      ],
+      [
+        "1.0L",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "SYNC 2.5",
+        "Text Messages"
+      ],
+      [
+        "Cinto de Segurança",
+        "Veículo"
+      ],
+      [
+        "Brasil",
+        "Combustível com Chumbo"
+      ],
+      [
+        "Owner's Manual",
+        "Securitas Antifurto"
+      ],
+      [
+        "Ford",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Combustível",
+        "Tanque de Combustível"
+      ],
+      [
+        "29-06-2020",
+        "Figo/Ka"
+      ],
+      [
+        "Transmissor",
+        "Transmissor Integrado"
+      ],
+      [
+        "F49",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Concessionária Ford",
+        "Vibração"
+      ],
+      [
+        "Concessionária Ford",
+        "Figo/Ka"
+      ],
+      [
+        "Ford",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Aprendizagem Adaptável",
+        "Sistema de Direção com Assistência Eletrônica"
+      ],
+      [
+        "F15",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Airbags Dianteiros",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Unidade De Áudio"
+      ],
+      [
+        "Crianças",
+        "Veículo"
+      ],
+      [
+        "Câmera de Ré",
+        "Sistema de Detecção de Marcha à Ré"
+      ],
+      [
+        "Emergency Road Assistance",
+        "Ford"
+      ],
+      [
+        "Engine Activation and Deactivation",
+        "Figo/Ka"
+      ],
+      [
+        "Luzes Indicadoras e de Advertência",
+        "Motor"
+      ],
+      [
+        "Driving Tips",
+        "Reboque"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Freio"
+      ],
+      [
+        "Cooling Fluid",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "SYNC 2.5",
+        "USB Port"
+      ],
+      [
+        "F69",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Tabela De Especificações De Lâmpadas"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Suspension Specifications"
+      ],
+      [
+        "Cinto de Segurança",
+        "Colisão"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fluido Refrigerante"
+      ],
+      [
+        "Centro de Atendimento Ford",
+        "Ford Assistance"
+      ],
+      [
+        "Ford Motor Company Brasil Ltda.",
+        "Sistema de Áudio"
+      ],
+      [
+        "Sistema de Entrada Iluminada",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Fuel System"
+      ],
+      [
+        "MMT",
+        "Motor"
+      ],
+      [
+        "Caixa de Fusíveis de Alta Corrente",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Drive (D)",
+        "Transmission"
+      ],
+      [
+        "Gás Explosivo",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Transmission Manual"
+      ],
+      [
+        "Faróis de Neblina Dianteiros",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Key Programming",
+        "MyKey"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Manual do Proprietário"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Motor Warning Light"
+      ],
+      [
+        "Brazil",
+        "Ford Motor Company"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fusíveis"
+      ],
+      [
+        "Dados Técnicos do Veículo",
+        "Veículo"
+      ],
+      [
+        "Environmental Protection",
+        "Owner's Manual"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Motor de Direção com Assistência Elétrica"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Fluido De Freio - DOT 4"
+      ],
+      [
+        "Audio System",
+        "Ford"
+      ],
+      [
+        "Airbag",
+        "Cinto de Segurança"
+      ],
+      [
+        "Figo/Ka",
+        "Transmission Automatic"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Weight Specifications"
+      ],
+      [
+        "Ford",
+        "MyKey"
+      ],
+      [
+        "Oil Consumption",
+        "Severe Operating Conditions"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Veículos Com Transmissão Automática"
+      ],
+      [
+        "Ford Assistance",
+        "Hotel"
+      ],
+      [
+        "Alarm System",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Box Rápido Motorcraft®",
+        "Motorcraft®"
+      ],
+      [
+        "Anticongelante",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Safety Guidelines"
+      ],
+      [
+        "Ford",
+        "Ford Dealership"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "lavadores do vidro traseiro"
+      ],
+      [
+        "Chave Passiva",
+        "Controle Remoto"
+      ],
+      [
+        "Figo/Ka",
+        "Vidros Elétricos"
+      ],
+      [
+        "Ford Motor Company Brasil Ltda",
+        "Serviço Ford"
+      ],
+      [
+        "Figo/Ka",
+        "Tampa de Abastecimento de Óleo do Motor"
+      ],
+      [
+        "Sistema de Partida Eletrônica Easy-Start",
+        "Veículo"
+      ],
+      [
+        "Fluido de Lavagem",
+        "Reservatório do Lavador"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sensors"
+      ],
+      [
+        "Concessionárias",
+        "Ford Motor Company Brazil Ltda."
+      ],
+      [
+        "Ethanol",
+        "Safety Precautions"
+      ],
+      [
+        "Controle de Climatização",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Entertainment Screen",
+        "MyKey"
+      ],
+      [
+        "Controle Remoto",
+        "Unidade de Áudio"
+      ],
+      [
+        "F13",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Sistemas de segurança"
+      ],
+      [
+        "Freios",
+        "Pó do Freio"
+      ],
+      [
+        "Figo/Ka",
+        "Rearview Camera"
+      ],
+      [
+        "Controle Remoto",
+        "Porta Do Compartimento De Bagagem"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "S"
+      ],
+      [
+        "Neutral (N)",
+        "Transmission"
+      ],
+      [
+        "Expansion Reservoir Cap",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Desligamento Automático do Motor",
+        "Partida do Motor"
+      ],
+      [
+        "Controle de estabilidade",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Consumo Instantâneo de Combustível",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Leather Interior"
+      ],
+      [
+        "Airbags",
+        "Sistema de Segurança Suplementar"
+      ],
+      [
+        "Exterior Cleaning",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Manual do Proprietário"
+      ],
+      [
+        "Ford",
+        "Motorcraft"
+      ],
+      [
+        "MyKey™",
+        "Owner's Manual"
+      ],
+      [
+        "30 Seconds",
+        "Information Display"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Key"
+      ],
+      [
+        "Luz Indicadora de Mau Funcionamento",
+        "Motor"
+      ],
+      [
+        "Figo/Ka",
+        "Oil Consumption"
+      ],
+      [
+        "High-Pressure Washing",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "Combustíveis Automotivos",
+        "Figo/Ka"
+      ],
+      [
+        "Ford Ka",
+        "Ford Motor Company"
+      ],
+      [
+        "Bancos",
+        "Tomadas de Força"
+      ],
+      [
+        "Figo/Ka",
+        "Velocidade do Motor"
+      ],
+      [
+        "Concessionária Ford",
+        "Distribuidor Ford"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Rearview Camera"
+      ],
+      [
+        "1.0L Flex Fuel",
+        "WSS-M2C200-D2"
+      ],
+      [
+        "SYNC 2.5",
+        "Video Formats"
+      ],
+      [
+        "Manutenção Programada E Reparos Mecânicos",
+        "Registro De Dados De Ocorrências"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Watt da Potência de Saída Máxima"
+      ],
+      [
+        "Bateria",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Distribuidor Ford",
+        "Lâmpadas da Luz de Freio Central Superior"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Verificações Diárias"
+      ],
+      [
+        "F02",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "F28",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Chave",
+        "MyKey"
+      ],
+      [
+        "Freios",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Seta"
+      ],
+      [
+        "Especificações da Transmissão",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Key Administrator",
+        "MyKey"
+      ],
+      [
+        "Airbag",
+        "Colisão"
+      ],
+      [
+        "10 Minutes",
+        "Engine"
+      ],
+      [
+        "Bebê Conforto",
+        "Crianças"
+      ],
+      [
+        "15 Minutes",
+        "Engine"
+      ],
+      [
+        "Capacidade do Tanque de Combustível",
+        "Combustível"
+      ],
+      [
+        "Chave",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Oil Filter"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmissão"
+      ],
+      [
+        "Condução Econômica",
+        "Veículo"
+      ],
+      [
+        "Electric Connector",
+        "Light Socket"
+      ],
+      [
+        "Conector de Diagnóstico",
+        "Figo/Ka (CDS) Brazil"
+      ],
+      [
+        "Crianças",
+        "Dispositivo de Fixação de Crianças"
+      ],
+      [
+        "Luzes de Condução Diurna",
+        "Repetidor Lateral"
+      ],
+      [
+        "Figos/Ka (CDS) Brazil",
+        "Fusíveis"
+      ],
+      [
+        "Assistência de Freio e Direção",
+        "Controle Avançado de Estabilidade"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "concessionária Ford"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Modo 24 Horas"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Freios"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Vidros Elétricos"
+      ],
+      [
+        "Distribuidor Ford",
+        "Figos/Ka (CDS) Brazil"
+      ],
+      [
+        "Antiesmagamento",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Capô",
+        "Figo/Ka"
+      ],
+      [
+        "Accelerator",
+        "Figo/Ka"
+      ],
+      [
+        "Partida do Motor a Gasolina",
+        "Transmissão Manual"
+      ],
+      [
+        "F68",
+        "Fusíveis (Specifications)"
+      ],
+      [
+        "Fluidos",
+        "Veículo"
+      ],
+      [
+        "Figo/Ka",
+        "Ford Assistance"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "System De Falha"
+      ],
+      [
+        "Porcas De Roda",
+        "Troca De Roda"
+      ],
+      [
+        "Alarm System",
+        "Alarm Trigger"
+      ],
+      [
+        "Assistente de Estacionamento",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Windshield Washer"
+      ],
+      [
+        "Figo/Ka",
+        "Luz da Porta do Compartimento de Bagagem"
+      ],
+      [
+        "Airbag Warning Light",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Vehicle Interior Cleaning",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "Luz do Compartimento de Bagagem",
+        "Lâmpadas Traseiras"
+      ],
+      [
+        "5-Speed Manual Transmission",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Número de Identificação do Veículo"
+      ],
+      [
+        "Keyless Entry System",
+        "M7BX19A321AB"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Sistema de Arrefecimento"
+      ],
+      [
+        "Consumo Médio de Combustível",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Easy-Start System",
+        "Motor"
+      ],
+      [
+        "Macaco",
+        "Pneu de Estepe"
+      ],
+      [
+        "Especificações do Motor - 1.5L Flex Fuel",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Concessionária Ford",
+        "Ford Assistance Program"
+      ],
+      [
+        "Driving Tips",
+        "Fuel Economy"
+      ],
+      [
+        "Ford",
+        "ISO 14000"
+      ],
+      [
+        "Diesel",
+        "Figo/Ka"
+      ],
+      [
+        "Chave Passiva",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Piloto Automático",
+        "Sistema de Detecção de Marcha à Ré"
+      ],
+      [
+        "Acessórios Originais Ford",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "Child Restraint Device",
+        "ISOFIX"
+      ],
+      [
+        "OBDBr-2+",
+        "Sistema de Controle de Emissões"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vidros e Espelhos Retrovisores"
+      ],
+      [
+        "Corte de Combustível",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Braço do Limpador",
+        "Palhetas do Limpador"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Ford Assistance"
+      ],
+      [
+        "Grampos",
+        "Luz do Assoalho"
+      ],
+      [
+        "Assentos de Elevação",
+        "Dispositivo de Retenção de Crianças"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "MyKey™"
+      ],
+      [
+        "Reverse (R)",
+        "Transmission"
+      ],
+      [
+        "Figo/Ka",
+        "Macaco"
+      ],
+      [
+        "Armazenamento",
+        "Veículo"
+      ],
+      [
+        "Bluetooth",
+        "SYNC 2.5"
+      ],
+      [
+        "Concessionária Ford",
+        "Indicador de Manutenção do Motor Imediata"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Viagem na Via"
+      ],
+      [
+        "Desembaçador Máximo",
+        "Veículo"
+      ],
+      [
+        "Diagnostic System",
+        "Warning Light"
+      ],
+      [
+        "1.0L Flex Fuel",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Climatização do Veículo",
+        "Sugestões de Condução"
+      ],
+      [
+        "Tanque de Combustível",
+        "Veículo"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "High-Pressure Washing",
+        "Pressure Washer"
+      ],
+      [
+        "12V Battery",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Bateria",
+        "Ford Motor Company Brazil Ltda."
+      ],
+      [
+        "Controle Avançado de Estabilidade",
+        "Sistema de Direção com Assistência Elétrica"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Kit de Mobilidade Temporária"
+      ],
+      [
+        "Figo/Ka",
+        "Sistema de Freios"
+      ],
+      [
+        "Aditivos Metálicos",
+        "Figo/Ka"
+      ],
+      [
+        "Amortecedores",
+        "Ford Motor Company Brasil Ltda."
+      ],
+      [
+        "File System Types",
+        "USB Port"
+      ],
+      [
+        "MyKey",
+        "Sistema De Fixação Para Crianças"
+      ],
+      [
+        "Antiesmagamento",
+        "Figo/Ka"
+      ],
+      [
+        "Dimensões do Veículo - 5 Portas",
+        "Figo/Ka"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "Figo/Ka"
+      ],
+      [
+        "Figo/Ka (CDS) Brazil",
+        "Ford Assistance"
+      ],
+      [
+        "Bateria Auxiliar",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Alarme de Cinto de Segurança",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Dashboard Screens",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Figo/Ka",
+        "Fluido de Arrefecimento do Motor"
+      ],
+      [
+        "1.5L",
+        "three years"
+      ],
+      [
+        "INMETRO",
+        "Sistema de Fixação de Crianças"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Tabela de Especificações de Lâmpadas"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "controle de iluminação"
+      ],
+      [
+        "FM Frequencies",
+        "Sistema de Áudio"
+      ],
+      [
+        "Figo/Ka",
+        "Tacômetro"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "Esponja",
+        "Limpador de Roda"
+      ],
+      [
+        "Figo/Ka",
+        "Luz Indicadora de Direção"
+      ],
+      [
+        "Vehicle Exterior Care",
+        "Vehicle Maintenance Guidelines"
+      ],
+      [
+        "Pneumatic Tires",
+        "Vehicle Maintenance Instructions"
+      ],
+      [
+        "Battery Disconnection",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Controle de Climatização",
+        "Controle de Distribuição de Ar"
+      ],
+      [
+        "Battery",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Check Engine Light",
+        "Diagnostic System"
+      ],
+      [
+        "Ajuste de Sensibilidade",
+        "Sistema de Áudio"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Smart Unlocking"
+      ],
+      [
+        "Piloto Automático",
+        "Veículos Com Ar Condicionado"
+      ],
+      [
+        "Airbags",
+        "Vehicle Occupants"
+      ],
+      [
+        "Sport (S)",
+        "Transmission"
+      ],
+      [
+        "Embreagem",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Controle de Tração",
+        "Freios"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Transmission Types"
+      ],
+      [
+        "Banco Traseiro",
+        "Crianças"
+      ],
+      [
+        "MyKey",
+        "Volume Limit"
+      ],
+      [
+        "Key with Integrated Transmitter",
+        "SecuriLock®"
+      ],
+      [
+        "Figo/Ka",
+        "Óleo do Motor"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "SE PLUS"
+      ],
+      [
+        "Chave",
+        "Controle Remoto"
+      ],
+      [
+        "Distribuidor Ford",
+        "Veículo"
+      ],
+      [
+        "Combustível Aditivado",
+        "Figo/Ka"
+      ],
+      [
+        "Ford Motor Company Brazil Ltda.",
+        "Garantia"
+      ],
+      [
+        "Figo/Ka",
+        "Vidros Traseiros"
+      ],
+      [
+        "Cinto De Segurança",
+        "Sinal Sonoro"
+      ],
+      [
+        "MyKey",
+        "Sistema"
+      ],
+      [
+        "7 milhões de metros quadrados",
+        "Ford"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Veículos Com Transmissão Manual"
+      ],
+      [
+        "1.0L Flex Fuel",
+        "Figo/Ka"
+      ],
+      [
+        "Electromagnetic Compatibility",
+        "Radiofrequency Devices"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Motorcraft Fluid Specifications"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Vehicle Identification Number"
+      ],
+      [
+        "Dashboard Indicators",
+        "Figo/Ka (CDS)"
+      ],
+      [
+        "Alagamentos",
+        "Driving Tips"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Fusíveis"
+      ],
+      [
+        "1.5L Flex Fuel",
+        "WSS-M2C948-B"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "Objetos"
+      ],
+      [
+        "Figo/Ka",
+        "Reservatório de Fluido do Freio e da Embreagem"
+      ],
+      [
+        "Figo/Ka",
+        "Gasolina Aditivada"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "SEL"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "faróis dianteiros externose lanternas traseiras"
+      ],
+      [
+        "Luz Indicadora de Direção",
+        "Lâmpadas Incandescentes"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Vehicle Operation Instructions"
+      ],
+      [
+        "Caixa de Fusíveis",
+        "Luz de Advertência"
+      ],
+      [
+        "Armazenamento de uma Estação de Rádio",
+        "Sistema de Áudio"
+      ],
+      [
+        "Figo/Ka (CDS)",
+        "SE"
+      ],
+      [
+        "Figo/Ka",
+        "Luz de Cortesia"
+      ]
+    ],
+    "count": 673,
+    "create_time": 1771297359,
+    "update_time": 1771297359,
+    "_id": "doc-5d45fc8f2377579e9b55b2d676e325c1"
+  },
+  "doc-e0e43d2647142b92af40cf711f51c843": {
+    "relation_pairs": [
+      [
+        "G-23",
+        "Sistemas de Segurança Ativa"
+      ],
+      [
+        "Central BSM",
+        "Fusíveis - Módulo 2"
+      ],
+      [
+        "Fuel Indicator",
+        "Luz-Espia de Reserva de Combustível"
+      ],
+      [
+        "Alarme",
+        "Antielevação"
+      ],
+      [
+        "Avaria no Sensor de Combustível",
+        "C-21"
+      ],
+      [
+        "Portas",
+        "Sistema de Segurança para Crianças"
+      ],
+      [
+        "Alavanca",
+        "Interruptor A"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Tomada de Corrente"
+      ],
+      [
+        "Gasolina Sem Chumbo",
+        "Rede de Distribuidores"
+      ],
+      [
+        "Luz-Espia",
+        "Nível do Líquido"
+      ],
+      [
+        "Espelho Retrovisor Interno",
+        "Veículo"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Motorista"
+      ],
+      [
+        "Pneu Sobressalente",
+        "Roda Sobressalente"
+      ],
+      [
+        "Líquido de Arrefecimento",
+        "Verificações Periódicas"
+      ],
+      [
+        "Intervenções e Reparações",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Leitura de Pressão dos Pneus",
+        "iTPMS"
+      ],
+      [
+        "Arrefecimento",
+        "H-4"
+      ],
+      [
+        "Emergency Stop Signaling",
+        "Wipers and Washers"
+      ],
+      [
+        "Filtro de Combustível",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "ASR (Anti Slip Regulation)",
+        "ESC (Electronic Stability Control)"
+      ],
+      [
+        "Filtro de Ar",
+        "Plano de Manutenção Programada"
+      ],
+      [
+        "Chave com Controle Remoto",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Levantadores Elétricos",
+        "Sistema de Antiesmagamento"
+      ],
+      [
+        "Limpador Traseiro",
+        "Palhetas"
+      ],
+      [
+        "Motor",
+        "Parafusos das Rodas"
+      ],
+      [
+        "Líquidos Refrigerantes",
+        "Sistema de Ar-Condicionado"
+      ],
+      [
+        "400 kg",
+        "Fiat"
+      ],
+      [
+        "Motorista",
+        "Rede Assistencial Jeep"
+      ],
+      [
+        "Corrosão",
+        "Garantia"
+      ],
+      [
+        "Fiat",
+        "Mobi Treeking"
+      ],
+      [
+        "Ar-Condicionado",
+        "Seletor de Temperatura"
+      ],
+      [
+        "MOPAR Cleaner 60S",
+        "MOPAR Coolant OAT 50"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema de Estacionamento"
+      ],
+      [
+        "Comutador de Luzes",
+        "Faróis Baixos"
+      ],
+      [
+        "Conselho Nacional de Trânsito (Contran)",
+        "Dispositivo de Retenção Infantil"
+      ],
+      [
+        "Câmbio Manual",
+        "Dados Técnicos"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema ASR (Anti Slip Regulation)"
+      ],
+      [
+        "Cintos de Segurança",
+        "IROS"
+      ],
+      [
+        "Battery",
+        "Regulamento CONAMA 401.08"
+      ],
+      [
+        "Lâmpadas a baioneta",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "Instruções do Fabricante da Ferramenta",
+        "Reboque"
+      ],
+      [
+        "Central Eletrônica dos Freios ABS",
+        "iTPMS"
+      ],
+      [
+        "FIAT",
+        "Veículo"
+      ],
+      [
+        "Bateria",
+        "Veículo"
+      ],
+      [
+        "Bateria",
+        "Engate Rápido"
+      ],
+      [
+        "Duração do Pneu",
+        "Pneu Sobressalente"
+      ],
+      [
+        "Apoia-Cabeças",
+        "Banco Traseiro"
+      ],
+      [
+        "Procedimentos de Manutenção",
+        "Veículo"
+      ],
+      [
+        "Desembaçador Traseiro",
+        "Luz-Espia"
+      ],
+      [
+        "Manutenção Programada-Versões com Motores 1.0 8V Fire Flex",
+        "Verificação das pastilhas de freio das rodas dianteiras"
+      ],
+      [
+        "Motor do Veículo",
+        "Sistema de Refrigeração"
+      ],
+      [
+        "Fiat",
+        "Guarantee Manual"
+      ],
+      [
+        "Pessoas a Bordo",
+        "Veículo"
+      ],
+      [
+        "Peças Genuínas",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "G",
+        "G-35"
+      ],
+      [
+        "ESC (Electronic Stability Control)",
+        "Fiat"
+      ],
+      [
+        "Display Eletrônico",
+        "Painel de Instrumentos"
+      ],
+      [
+        "Manutenção Programada",
+        "Veículo"
+      ],
+      [
+        "Motor",
+        "Sistema de Frenagem"
+      ],
+      [
+        "Air Filter",
+        "Dust Prevention"
+      ],
+      [
+        "Consumidores de energia",
+        "Veículo"
+      ],
+      [
+        "Avaria Luzes Externas",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Fiat",
+        "iTPMS (Indirect Tire Pressure Monitoring System)"
+      ],
+      [
+        "Líquidos Necessários",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Pneus",
+        "iTPMS"
+      ],
+      [
+        "Manual de Uso e Manutenção",
+        "Mopar"
+      ],
+      [
+        "Fusíveis",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Carroceria",
+        "Detergentes"
+      ],
+      [
+        "H-4",
+        "H-6"
+      ],
+      [
+        "B-11",
+        "D-19"
+      ],
+      [
+        "C-20",
+        "Excessiva Temperatura do Líquido de Arrefecimento do Motor"
+      ],
+      [
+        "Desbalanceamento",
+        "Veículo"
+      ],
+      [
+        "Velocidade Máxima",
+        "performance"
+      ],
+      [
+        "Indicador de Direção",
+        "Luz-Espia"
+      ],
+      [
+        "Cinto de Segurança",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Procedimentos de Reboque",
+        "Veículo"
+      ],
+      [
+        "Combustível",
+        "Óleo"
+      ],
+      [
+        "Cintos de Segurança",
+        "Veículo"
+      ],
+      [
+        "Procedimentos de Abastecimento",
+        "Veículo"
+      ],
+      [
+        "Ar-Condicionado",
+        "Clima Úmido"
+      ],
+      [
+        "F010",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Esguicho",
+        "Limpador Traseiro"
+      ],
+      [
+        "ISO Fix",
+        "child safety seats"
+      ],
+      [
+        "Motorista",
+        "Veículo"
+      ],
+      [
+        "Dispositivos Elétricos/Electrônicos",
+        "Stellantis"
+      ],
+      [
+        "Dados Técnicos",
+        "Pressão dos Pneus"
+      ],
+      [
+        "Conversor Catalítico",
+        "Sistema de Injeção"
+      ],
+      [
+        "Fiat Code",
+        "Função \"Estacionamento\""
+      ],
+      [
+        "Luz-Espia",
+        "Sistema ABS"
+      ],
+      [
+        "C-22",
+        "Sistema de Diagnóstico de Bordo OBD"
+      ],
+      [
+        "Caixas Abertas",
+        "Carroceria"
+      ],
+      [
+        "H-9",
+        "Veículo"
+      ],
+      [
+        "Cadeirinha Infantil",
+        "Colisão"
+      ],
+      [
+        "Índice De Capacidade De Carga",
+        "Índice De Velocidade Máxima"
+      ],
+      [
+        "Chave",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "B-5",
+        "B-8"
+      ],
+      [
+        "Funil",
+        "Óleo do Motor"
+      ],
+      [
+        "CEP 32669-900",
+        "FCA Fiat Chrysler Automóveis Brasil Ltda."
+      ],
+      [
+        "Bateria",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Sensor Volumétrico",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Fuel Indicator",
+        "Fuel Reserve"
+      ],
+      [
+        "Luz-Espia",
+        "Sensor de Combustível"
+      ],
+      [
+        "Fiat",
+        "Stellantis"
+      ],
+      [
+        "Detergentes",
+        "Estações de Lavagem"
+      ],
+      [
+        "G-23",
+        "Sistema SBR"
+      ],
+      [
+        "3000 km",
+        "Roda Sobressalente"
+      ],
+      [
+        "Cinto de Segurança",
+        "Condutor"
+      ],
+      [
+        "Alavanca A",
+        "Banco Traseiro"
+      ],
+      [
+        "Películas Especiais",
+        "Pintura"
+      ],
+      [
+        "Fiat",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Veículo"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Systema de Descarga"
+      ],
+      [
+        "Condutor",
+        "Manual"
+      ],
+      [
+        "Display LCD",
+        "Relógio"
+      ],
+      [
+        "Banco Dianteiro",
+        "apoia-cabeças"
+      ],
+      [
+        "Espelho Retrovisor Externo",
+        "Função Tilt Down"
+      ],
+      [
+        "DADOS TÉCNICOS",
+        "G-36"
+      ],
+      [
+        "ESS (Emergency Stop Signaling)",
+        "Luzes de Emergência"
+      ],
+      [
+        "Motor 1.0 8V Fire",
+        "Órgãos Auxiliares"
+      ],
+      [
+        "Pneus",
+        "Veículo"
+      ],
+      [
+        "Desembaçamento",
+        "Para-Brisa"
+      ],
+      [
+        "H-12",
+        "Veículo"
+      ],
+      [
+        "Button \"MENU ESC\"",
+        "iTPMS"
+      ],
+      [
+        "Gases de Descarga",
+        "Monóxido de Carbono"
+      ],
+      [
+        "Fiat",
+        "Mopar"
+      ],
+      [
+        "Pneu Envelhecido",
+        "Rachaduras"
+      ],
+      [
+        "Manutenção Programada",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Manual do Equipamento"
+      ],
+      [
+        "Emissões",
+        "Sistema Evaporativo"
+      ],
+      [
+        "Cintos de Segurança",
+        "Pré-Tensionador"
+      ],
+      [
+        "Air Conditioning System",
+        "Fan Selector"
+      ],
+      [
+        "Levantadores Manuais dos Vidros",
+        "Veículo"
+      ],
+      [
+        "Emergency Braking",
+        "Internal Lights"
+      ],
+      [
+        "FLEX System",
+        "Fuels"
+      ],
+      [
+        "Motor",
+        "Reservatório de Líquido de Arrefecimento"
+      ],
+      [
+        "Ar-Condicionado",
+        "Habitáculo"
+      ],
+      [
+        "Chave de Roda",
+        "Paráfusos"
+      ],
+      [
+        "Indicação de Falha Genérica",
+        "Luz-Espia"
+      ],
+      [
+        "Banco Dianteiro",
+        "Regulagem no Sentido Longitudinal"
+      ],
+      [
+        "F009",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Ar-Condicionado",
+        "Motor"
+      ],
+      [
+        "Conjunto Roda/Pneu Sobressalente",
+        "Diâmetro Da Roda"
+      ],
+      [
+        "Porta-Malas",
+        "Veículo"
+      ],
+      [
+        "MOPAR Coolant OAT 50",
+        "vehicle"
+      ],
+      [
+        "B-4",
+        "Substituição de Lâmpadas"
+      ],
+      [
+        "Filtro de Combustível",
+        "Sistema de Injeção"
+      ],
+      [
+        "Cintos de Segurança",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "FCA Fiat Chrysler Automóveis Brasil Ltda.",
+        "MOBI - Manual de Uso e Manutenção"
+      ],
+      [
+        "Chave",
+        "Fiat CODE"
+      ],
+      [
+        "Ar-Condicionado",
+        "Seletor do Ventilador"
+      ],
+      [
+        "Air Flow Direction",
+        "Heating and Ventilation"
+      ],
+      [
+        "Motor Fire 1.0 8V Flex",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Motorista",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "LIMPEZA DOS BANCOS E DAS PARTES DE TECIDO",
+        "PARTES DE PLÁSTICO INTERNAS"
+      ],
+      [
+        "Levantadores Elétricos",
+        "Tecla do Acionador"
+      ],
+      [
+        "Chave A",
+        "Chave com Controle Remoto"
+      ],
+      [
+        "Sistema de Controle Eletrônico de Estabilidade (ESC)",
+        "Sistema de Freios"
+      ],
+      [
+        "Segurança das Crianças",
+        "Veículo"
+      ],
+      [
+        "EBD (Electronic Brake Distribution)",
+        "Fiat"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Corte do Combustível"
+      ],
+      [
+        "Rede Assistencial Jeep",
+        "Veículo"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema ASR"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Condições Gerais da Garantia",
+        "Garantia"
+      ],
+      [
+        "Battery",
+        "Fiat"
+      ],
+      [
+        "Portas",
+        "Travamento Centralizado"
+      ],
+      [
+        "Líquido dos Freios",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Fiat",
+        "Hill Holder"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema ESC"
+      ],
+      [
+        "Chave de Ignição",
+        "Motor de Carro"
+      ],
+      [
+        "Luz-Espia",
+        "Tanque de Combustível"
+      ],
+      [
+        "Corpo do Veículo",
+        "Fusível"
+      ],
+      [
+        "Agência Nacional de Petróleo",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Alavanca C",
+        "Banco Dianteiro"
+      ],
+      [
+        "Colisão",
+        "Sistema de Bloqueio de Combustível"
+      ],
+      [
+        "Janela do Capô",
+        "Veículo"
+      ],
+      [
+        "F006",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Bloqueio de Combustível"
+      ],
+      [
+        "Airbag",
+        "Fiat"
+      ],
+      [
+        "Cinto de Segurança Dianteiro",
+        "Sinalização Acústica"
+      ],
+      [
+        "Alternador",
+        "Bateria Auxiliar"
+      ],
+      [
+        "Child Restraint System",
+        "Top Tether Strap"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sensor de Combustível"
+      ],
+      [
+        "Chave A",
+        "Fiat"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Condutor",
+        "Sistema iTPMS"
+      ],
+      [
+        "Faróis",
+        "Luzes de Posição Dianteiras"
+      ],
+      [
+        "Pneus",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Arrefecimento"
+      ],
+      [
+        "Dados Técnicos",
+        "Fluidos Originais e Lubrificantes"
+      ],
+      [
+        "Faróis Baixos",
+        "Sistema Follow Me Home"
+      ],
+      [
+        "Colisão",
+        "Event Data Recorder (EDR)"
+      ],
+      [
+        "D-13",
+        "E-3"
+      ],
+      [
+        "Sistema de Refrigeração",
+        "Veículo"
+      ],
+      [
+        "Fuel Access Nozzle",
+        "Fuel Tank"
+      ],
+      [
+        "Dispositivo de Bloqueio",
+        "Roda Sobressalente"
+      ],
+      [
+        "Cintos de Segurança Traseiros",
+        "vehicle"
+      ],
+      [
+        "Líquido de Arrefecimento",
+        "Sistema de Arrefecimento"
+      ],
+      [
+        "Crash Conditions",
+        "Front Airbags"
+      ],
+      [
+        "Filtro de Ar-Condicionado",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Digital Temperature Indicator",
+        "Fiat"
+      ],
+      [
+        "Filtro do Óleo do Motor",
+        "Óleo do Motor"
+      ],
+      [
+        "Child Restraint Device",
+        "Installation Guidelines"
+      ],
+      [
+        "Carroceria",
+        "Pintura"
+      ],
+      [
+        "Sistema ASR (Anti Slip Regulation)",
+        "Sistema de Freios"
+      ],
+      [
+        "Manutenção Programada-Versões com Motores 1.0 8V Fire Flex",
+        "Substituição do filtro de combustível"
+      ],
+      [
+        "Roda Sobressalente",
+        "Veículo"
+      ],
+      [
+        "H-4",
+        "Lubrificação"
+      ],
+      [
+        "Motor",
+        "Regulagem do Volante"
+      ],
+      [
+        "Espelho Retrovisor Externo",
+        "Veículo"
+      ],
+      [
+        "Sensores De Estacionamento",
+        "driver"
+      ],
+      [
+        "Partida de Emergência",
+        "Placa"
+      ],
+      [
+        "Braço do Limpador",
+        "Palheta"
+      ],
+      [
+        "Fluido dos Freios",
+        "Reservatório"
+      ],
+      [
+        "F-26",
+        "Superaquecimento do Motor"
+      ],
+      [
+        "Cinto de Segurança",
+        "Mulheres Grávidas"
+      ],
+      [
+        "Digital Temperature Indicator",
+        "Luz-Espia de Excesso de Temperatura"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Revisão de Carroceria"
+      ],
+      [
+        "H-4",
+        "Veículo"
+      ],
+      [
+        "Banco Traseiro",
+        "apoia-cabeças"
+      ],
+      [
+        "Child Restraint Device",
+        "ISOFIX Hooks"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Grupo 1: bebê conforto ou conversível"
+      ],
+      [
+        "EBD (Electronic Brake Distribution)",
+        "ESC (Electronic Stability Control)"
+      ],
+      [
+        "Betim",
+        "FCA Fiat Chrysler Automóveis Brasil Ltda."
+      ],
+      [
+        "Gasolina Sem Chumbo",
+        "Veículo"
+      ],
+      [
+        "Central BSM",
+        "Eletroventilador"
+      ],
+      [
+        "A Lever",
+        "Emergency Procedure"
+      ],
+      [
+        "Manutenção Programada",
+        "Rede Assistencial FIAT"
+      ],
+      [
+        "Manutenção Programada",
+        "Sinal Negativo"
+      ],
+      [
+        "Sistema de Bloqueio de Combustível",
+        "Veículo"
+      ],
+      [
+        "Dimensões",
+        "Pesos e Cargas"
+      ],
+      [
+        "Pneu Envelhecido",
+        "Pneus"
+      ],
+      [
+        "Comutador de Luzes",
+        "Luzes D.R.L."
+      ],
+      [
+        "Fiat CODE",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Manual de Uso e Manutenção",
+        "Stellantis"
+      ],
+      [
+        "Capacidade de Carga",
+        "Peso do Veículo"
+      ],
+      [
+        "Sensor de Inclinação",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Grupo 4"
+      ],
+      [
+        "B-4",
+        "Substituição de Fusíveis"
+      ],
+      [
+        "B-21",
+        "G-18"
+      ],
+      [
+        "Alavanca",
+        "Conjunto da Luz Interna"
+      ],
+      [
+        "Acessórios Genuínos Fiat",
+        "Fiat"
+      ],
+      [
+        "Lâmpadas cilíndricas",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "ANATEL",
+        "RKE (Chave com controle remoto)"
+      ],
+      [
+        "Faróis",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Manobras Inúteis",
+        "Veículo"
+      ],
+      [
+        "Engate Para Reboque",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Acessórios Genuínos Fiat",
+        "Stellantis"
+      ],
+      [
+        "Faróis",
+        "Lampadas Halogenas"
+      ],
+      [
+        "ABS (Anti-lock Braking System)",
+        "EBD (Electronic Brake Distribution)"
+      ],
+      [
+        "Corretor de Frenagem Eletrônico EBD",
+        "Fiat"
+      ],
+      [
+        "Bateria",
+        "Motor do Veículo"
+      ],
+      [
+        "Child Restraint System",
+        "ISOFIX"
+      ],
+      [
+        "Cinto de Segurança",
+        "Pré-Tensionador"
+      ],
+      [
+        "Veículo",
+        "Volante"
+      ],
+      [
+        "Motor",
+        "Transmissão Manual"
+      ],
+      [
+        "B-4",
+        "Solicitação de Controles Remotos Adicionais"
+      ],
+      [
+        "Bateria",
+        "Carregador de Baterias"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema EBD"
+      ],
+      [
+        "Catalytic Converter",
+        "Lambda Sensor"
+      ],
+      [
+        "H-5",
+        "Suspensões"
+      ],
+      [
+        "Motor Catalisado",
+        "Transmissão Manual"
+      ],
+      [
+        "Basic Traffic Safety Manual",
+        "Fiat"
+      ],
+      [
+        "Bateria do Controle Remoto",
+        "Chave B"
+      ],
+      [
+        "H-8",
+        "Veículo"
+      ],
+      [
+        "B-22",
+        "B-27"
+      ],
+      [
+        "Lampadas Halogenas",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "ABNT",
+        "Stellantis"
+      ],
+      [
+        "Mobi Treeking",
+        "Mopar"
+      ],
+      [
+        "Condutor",
+        "Pneu"
+      ],
+      [
+        "Motor",
+        "Sistema de Arrefecimento - Manutenção"
+      ],
+      [
+        "Motorista",
+        "Posto de Gasolina"
+      ],
+      [
+        "Chave B",
+        "Fiat"
+      ],
+      [
+        "Função One Touch",
+        "Levantadores Elétricos"
+      ],
+      [
+        "Pneus Traseiros",
+        "Veículo"
+      ],
+      [
+        "Brazil",
+        "MOBI - Manual de Uso e Manutenção"
+      ],
+      [
+        "F002",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Botão De Desengate A",
+        "Freio De Estacionamento"
+      ],
+      [
+        "Luz-Espia",
+        "Sensor de Temperatura do Líquido de Arrefecimento"
+      ],
+      [
+        "Fiat Assistance Network",
+        "Wipers and Washers"
+      ],
+      [
+        "Velas de Ignição",
+        "Válvulas"
+      ],
+      [
+        "DRL (Daytime Running Lights)",
+        "Luzes de Direção (Setas)"
+      ],
+      [
+        "Lâmpadas halógenas com conector integrado",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "Motor",
+        "Sistema De Controle De Injeção Eletrônica"
+      ],
+      [
+        "Freio De Estacionamento",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Extintor de Incêndio",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Para-choques",
+        "Sensores"
+      ],
+      [
+        "Air Distribution Selector",
+        "Ventilation"
+      ],
+      [
+        "Motor",
+        "Partida com Bateria Auxiliar"
+      ],
+      [
+        "Quilometragem",
+        "Veículo"
+      ],
+      [
+        "Motorista",
+        "Sistema de Assistência para Estacionamento"
+      ],
+      [
+        "Sistema Hill Holder",
+        "Sistema de Controle Eletrônico de Estabilidade (ESC)"
+      ],
+      [
+        "Alavanca de Direção",
+        "Luzes de Posição"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Ar-Condicionado"
+      ],
+      [
+        "Etanol",
+        "Partida a Frio"
+      ],
+      [
+        "Diâmetro Da Roda",
+        "Pneus Reforçados"
+      ],
+      [
+        "Carroceria",
+        "Corrosão"
+      ],
+      [
+        "Fluidos Genuínos e Lubrificantes",
+        "Sistema de Arrefecimento"
+      ],
+      [
+        "Líquido da Bateria",
+        "Veículo"
+      ],
+      [
+        "Cintos de Segurança",
+        "Cintos de Segurança Traseiros"
+      ],
+      [
+        "Ar-Condicionado",
+        "Desembaçamento"
+      ],
+      [
+        "Esguicho",
+        "Reservatório"
+      ],
+      [
+        "HILL HOLDER",
+        "SISTEMA ESC"
+      ],
+      [
+        "Largura Nominal Do Pneu",
+        "Relação Altura/Largura"
+      ],
+      [
+        "Manutenção Programada",
+        "Plano de Manutenção Programada"
+      ],
+      [
+        "DADOS TÉCNICOS",
+        "G-37"
+      ],
+      [
+        "Banco Traseiro",
+        "Porta-Malas"
+      ],
+      [
+        "Frascos de Aerossol",
+        "Veículo"
+      ],
+      [
+        "Alavanca B",
+        "Banco Dianteiro"
+      ],
+      [
+        "Ar-Condicionado",
+        "Sistema Normal de Aquecimento"
+      ],
+      [
+        "Limpador Inteligente do Vidro Traseiro",
+        "Limpador Traseiro"
+      ],
+      [
+        "FCA Fiat Chrysler Automóveis Brasil Ltda.",
+        "MG"
+      ],
+      [
+        "Manutenção Programada-Versões com Motores 1.0 8V Fire Flex",
+        "Substituição do óleo do motor e filtro de óleo do motor"
+      ],
+      [
+        "10.000 km",
+        "Manutenção Programada"
+      ],
+      [
+        "Faróis",
+        "Indicadores de Direção Dianteiros"
+      ],
+      [
+        "F007",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Bomba Elétrica de Combustível",
+        "Chave de Ignição"
+      ],
+      [
+        "F004",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Direção",
+        "Suspensões"
+      ],
+      [
+        "Trekking",
+        "Veículo"
+      ],
+      [
+        "B-4",
+        "Substituição da Tampa do Controle Remoto"
+      ],
+      [
+        "Levantadores Elétricos",
+        "Vidros Laterais"
+      ],
+      [
+        "Manual",
+        "Pressão dos Pneus"
+      ],
+      [
+        "Manutenção Programada",
+        "Stellantis"
+      ],
+      [
+        "Agência Nacional de Petróleo",
+        "Gasolina Sem Chumbo"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Top Tether"
+      ],
+      [
+        "FCA Fiat Chrysler Automóveis Brasil Ltda.",
+        "Mopar Oil"
+      ],
+      [
+        "Motor",
+        "Veículo"
+      ],
+      [
+        "Mobi Treeking",
+        "Sistema Antievaporação"
+      ],
+      [
+        "Função de Recirculação",
+        "Ventilação"
+      ],
+      [
+        "Alarme com Telecomando",
+        "Chave Mecânica"
+      ],
+      [
+        "Botão de Telecomando",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "G-23",
+        "Sistema ESC"
+      ],
+      [
+        "F001",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "H-10",
+        "H-11"
+      ],
+      [
+        "Roda Sobressalente",
+        "Torque"
+      ],
+      [
+        "Alavanca A",
+        "Volante"
+      ],
+      [
+        "Manual de Uso e Manutenção",
+        "Tire Pressure Monitoring"
+      ],
+      [
+        "Paráfusos",
+        "Roda Sobressalente"
+      ],
+      [
+        "Faróis de Neblina",
+        "Luz-Espia"
+      ],
+      [
+        "Motor",
+        "Óleo do Motor"
+      ],
+      [
+        "F011",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Avaria do Sistema Fiat CODE",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "ABS (Anti-lock Braking System)",
+        "Sistema OBD"
+      ],
+      [
+        "G-23",
+        "Sistema Hill Holder"
+      ],
+      [
+        "Legislação em Vigor",
+        "Segurança Para Crianças"
+      ],
+      [
+        "Chave com Telecomando",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Ar-Condicionado",
+        "Seletor de Distribuição do Ar"
+      ],
+      [
+        "Motor",
+        "Pesos e Cargas"
+      ],
+      [
+        "PROCONVE",
+        "Star Comunicação e Serviços Ltda."
+      ],
+      [
+        "Central de Serviço ao Cliente",
+        "Rede de Concessionárias Fiat"
+      ],
+      [
+        "Fiat Code",
+        "Temperatura do Líquido de Arrefecimento"
+      ],
+      [
+        "ASSISTÊNCIA 24H CONFIAT",
+        "Central de Serviço ao Cliente"
+      ],
+      [
+        "Fusíveis - Módulo 2",
+        "Relé da Bomba de Combustível"
+      ],
+      [
+        "Child Restraint System",
+        "Weight Groups for Child Restraint"
+      ],
+      [
+        "Cinto de Segurança",
+        "Luz-Espia"
+      ],
+      [
+        "EDR",
+        "Equipamento Especial"
+      ],
+      [
+        "FLEX System",
+        "GNV"
+      ],
+      [
+        "Painel de Instrumentos",
+        "Sistema de Diagnóstico de Bordo"
+      ],
+      [
+        "Oleo de Arrefecimento",
+        "Veículo"
+      ],
+      [
+        "CART",
+        "Veículo"
+      ],
+      [
+        "Aplicativo CART",
+        "Central de Ajuda"
+      ],
+      [
+        "Raio De Ação Lateral",
+        "Sensores De Estacionamento"
+      ],
+      [
+        "Sistema de Proteção Antifurto",
+        "Veículo"
+      ],
+      [
+        "Sistema de Alarme",
+        "Veículo"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sensor de Temperatura do Líquido de Arrefecimento"
+      ],
+      [
+        "Motorista",
+        "VEículo"
+      ],
+      [
+        "Animais",
+        "Veículo"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema Fiat CODE"
+      ],
+      [
+        "H-10",
+        "Veículo"
+      ],
+      [
+        "C-18",
+        "Luz-Espia"
+      ],
+      [
+        "Garantia do Exterior do Veículo",
+        "Luz de Placa"
+      ],
+      [
+        "Manual de Uso e Manutenção",
+        "Mean Environment"
+      ],
+      [
+        "Sistema Elétrico",
+        "Veículo"
+      ],
+      [
+        "Benzina",
+        "Visor do Quadro de Instrumentos"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Sistema iTPMS"
+      ],
+      [
+        "Bateria Auxiliar",
+        "Motor de Partida"
+      ],
+      [
+        "Body Computer",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "Central Multimídia",
+        "Immobilizer"
+      ],
+      [
+        "Chave de Roda",
+        "Macaco"
+      ],
+      [
+        "D-19",
+        "D-28"
+      ],
+      [
+        "Airbag System",
+        "Front Airbags"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "ISOFIX"
+      ],
+      [
+        "Motor",
+        "Painel de Instrumentos"
+      ],
+      [
+        "Atrelado",
+        "Sistema iTPMS"
+      ],
+      [
+        "Acidente",
+        "Cintos de Segurança"
+      ],
+      [
+        "Motor de Carro",
+        "Procedimentos de Partida"
+      ],
+      [
+        "Pneu Furado",
+        "Troca de Pneus"
+      ],
+      [
+        "Electronic Display",
+        "Maintenance Schedule"
+      ],
+      [
+        "Carroceria",
+        "Veículo"
+      ],
+      [
+        "Reboque",
+        "Veículo"
+      ],
+      [
+        "Pneus Dianteiros",
+        "Veículo"
+      ],
+      [
+        "Cooling Liquid",
+        "Luz-Espia de Avaria"
+      ],
+      [
+        "Sistema EBD",
+        "Sistema de Controle Eletrônico de Estabilidade (ESC)"
+      ],
+      [
+        "Manual",
+        "Roda Sobressalente"
+      ],
+      [
+        "Raio De Ação Central",
+        "Sensores De Estacionamento"
+      ],
+      [
+        "Stellantis",
+        "Veículo"
+      ],
+      [
+        "Luz de Advertência",
+        "Painel de Instrumentos"
+      ],
+      [
+        "Faróis Baixos",
+        "Luz-Espia"
+      ],
+      [
+        "ABS (Anti-lock Braking System)",
+        "Fiat"
+      ],
+      [
+        "Pressão Abaixo do Especificado",
+        "Roda Sobressalente"
+      ],
+      [
+        "Chave com Telecomando",
+        "Portas"
+      ],
+      [
+        "CART",
+        "Fiat"
+      ],
+      [
+        "Banco Traseiro",
+        "Cintos de Segurança"
+      ],
+      [
+        "Dados Técnicos",
+        "Veículo"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Grupo 3"
+      ],
+      [
+        "Chave de Roda",
+        "Veículo"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Verificações Periódicas"
+      ],
+      [
+        "Banco Dianteiro",
+        "Regulagem da Inclinação do Encosto"
+      ],
+      [
+        "Freios",
+        "H-7"
+      ],
+      [
+        "Fluido dos Freios",
+        "Fluidos Genuínos e Lubrificantes"
+      ],
+      [
+        "Sistema de Levantamento dos Vidros Elétricos",
+        "Veículo"
+      ],
+      [
+        "Alarme Eletrônico",
+        "Veículo"
+      ],
+      [
+        "Smart Wiper",
+        "Wipers and Washers"
+      ],
+      [
+        "Pastilhas dos Freios Dianteiros",
+        "Veículo"
+      ],
+      [
+        "Door Locks",
+        "Internal Lights"
+      ],
+      [
+        "Pneu Sobressalente",
+        "Rodízio"
+      ],
+      [
+        "Condições de Calibração",
+        "Pressão Abaixo do Especificado"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema de Controle Eletrônico de Estabilidade (ESC)"
+      ],
+      [
+        "Faróis",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "Função Lane Change",
+        "Luzes de Direção (Setas)"
+      ],
+      [
+        "B-43",
+        "E-18"
+      ],
+      [
+        "Fiat",
+        "Sistema de Controle Eletrônico de Estabilidade ESC"
+      ],
+      [
+        "Motor",
+        "Sistema de Diagnosis de Bordo"
+      ],
+      [
+        "Barras Longitudinais de Teto",
+        "Mobi Trekking"
+      ],
+      [
+        "Banco Traseiro",
+        "Porta-Copos"
+      ],
+      [
+        "Gasolina Sem Chumbo",
+        "Posto de Gasolina"
+      ],
+      [
+        "Aquecimento",
+        "Motor"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Roda Sobressalente"
+      ],
+      [
+        "Garantia",
+        "Veículo"
+      ],
+      [
+        "Aceleração",
+        "Veículo"
+      ],
+      [
+        "Dust Prevention",
+        "Recirculation Function"
+      ],
+      [
+        "Ar-Condicionado",
+        "Ventilação"
+      ],
+      [
+        "Longa Inatividade do Veículo",
+        "Lubrificação"
+      ],
+      [
+        "Fusíveis - Módulo 1",
+        "Troca de Pneus"
+      ],
+      [
+        "Chave de Ignition",
+        "Sistema de Proteção Antifurto"
+      ],
+      [
+        "Installation Instructions",
+        "Legislation on Child Safety"
+      ],
+      [
+        "Capô do Motor",
+        "Veículo"
+      ],
+      [
+        "Pneu Furado",
+        "Roda Sobressalente"
+      ],
+      [
+        "Fluido dos Freios",
+        "Veículo"
+      ],
+      [
+        "Faróis Dianteiros",
+        "Vidros"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema OBD"
+      ],
+      [
+        "G-23",
+        "Sistema iTPMS"
+      ],
+      [
+        "Bancos Dianteiros",
+        "Portas"
+      ],
+      [
+        "Luz-Espia",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Sirene Inteligente",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "MOBI",
+        "MOBI - Manual de Uso e Manutenção"
+      ],
+      [
+        "Motor",
+        "Sistema de Frenagem - Manutenção e Cuidados"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Injeção Eletrônica",
+        "Motor Fire 1.0 8V Flex"
+      ],
+      [
+        "H-10",
+        "H-12"
+      ],
+      [
+        "H-1",
+        "Veículo"
+      ],
+      [
+        "Cintos de Segurança",
+        "Colisão"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Veículo"
+      ],
+      [
+        "Pneus",
+        "Pressão dos Pneus"
+      ],
+      [
+        "Pontos de Elevação",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Lâmpada Queimada",
+        "Troca de Pneus"
+      ],
+      [
+        "Acessórios Eletrônicos",
+        "Veículo"
+      ],
+      [
+        "Chave B",
+        "Chave com Controle Remoto"
+      ],
+      [
+        "Carroceria",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "G-23",
+        "Sistema Follow Me Home"
+      ],
+      [
+        "B-4",
+        "Substituição da Bateria da Chave"
+      ],
+      [
+        "G-35",
+        "Vidros"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Luz-Espia"
+      ],
+      [
+        "Macaco",
+        "Veículo"
+      ],
+      [
+        "Cargas",
+        "Veículo"
+      ],
+      [
+        "Avenida Contorno, 3455",
+        "FCA Fiat Chrysler Automóveis Brasil Ltda."
+      ],
+      [
+        "H-10",
+        "H-9"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Grupo 2"
+      ],
+      [
+        "Abertura de Emergência da Tampa do Porta-Malas",
+        "Porta-Malas"
+      ],
+      [
+        "Difusores",
+        "Ventilação"
+      ],
+      [
+        "Motorista",
+        "Transmissão Manual"
+      ],
+      [
+        "Luz-Espia",
+        "Motor"
+      ],
+      [
+        "Alarme",
+        "Luz-Espia"
+      ],
+      [
+        "Painel de Instrumentos",
+        "Trip Computer"
+      ],
+      [
+        "Ferramentas",
+        "Suporte das Ferramentas"
+      ],
+      [
+        "Ambiente Ventilado",
+        "Bateria"
+      ],
+      [
+        "Filtro do Óleo do Motor",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Reservatório de Expansão",
+        "Sistema de Arrefecimento"
+      ],
+      [
+        "Filtro de Ar",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Líquido dos Freios",
+        "Sistema de Frenagem"
+      ],
+      [
+        "Fusíveis",
+        "Instrumentos de Bordo"
+      ],
+      [
+        "Alavanca A",
+        "Banco Dianteiro"
+      ],
+      [
+        "INTERIOR DO VEÍCULO",
+        "TAPETES NO ASSOALHO DO VEÍCULO"
+      ],
+      [
+        "F005",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "B-19",
+        "G-12"
+      ],
+      [
+        "H-4",
+        "H-5"
+      ],
+      [
+        "Sistema de Arrefecimento",
+        "Tampa do Reservatório"
+      ],
+      [
+        "Combustível",
+        "Dispositivos Antipoluantes"
+      ],
+      [
+        "Aquecimento e Ventilação",
+        "Ventilação"
+      ],
+      [
+        "Filtro de Ar",
+        "Motor Fire"
+      ],
+      [
+        "Calota da Roda",
+        "Veículo"
+      ],
+      [
+        "Manutenção Programada",
+        "Partida do Motor"
+      ],
+      [
+        "Líquido dos Freios",
+        "Verificações Periódicas"
+      ],
+      [
+        "Air Conditioning System",
+        "Temperature Selector"
+      ],
+      [
+        "Bateria",
+        "Sistema Start&Stop"
+      ],
+      [
+        "Banco Dianteiro",
+        "Veículo"
+      ],
+      [
+        "Limpador do Para-Brisa",
+        "Para-Brisa"
+      ],
+      [
+        "Glicerina",
+        "Álcool"
+      ],
+      [
+        "Pré-Tensionador",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Sistema de Ventilação/Aquecimento",
+        "Áreas Alagadas"
+      ],
+      [
+        "H-12",
+        "H-13"
+      ],
+      [
+        "Excessiva Temperatura do Líquido de Arrefecimento do Motor",
+        "Rede Assistencial Fiat"
+      ],
+      [
+        "Embremagem",
+        "Transmissão Manual"
+      ],
+      [
+        "Comutador de Luzes",
+        "Luz de Placa"
+      ],
+      [
+        "Cinto de Segurança Dianteiro",
+        "Luz-Espia do Cinto de Segurança"
+      ],
+      [
+        "Procedimentos de Partida",
+        "Veículo"
+      ],
+      [
+        "Barra Longitudinal de Teto",
+        "Mobi Treeking"
+      ],
+      [
+        "Bateria Auxiliar",
+        "Partida de Emergência"
+      ],
+      [
+        "Motor",
+        "Óleo da Caixa de Câmbio"
+      ],
+      [
+        "Manual",
+        "Parafusos"
+      ],
+      [
+        "Dispositivos Elétricos",
+        "Veículo"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Stellantis"
+      ],
+      [
+        "G-23",
+        "Sistema OBD"
+      ],
+      [
+        "Motor",
+        "Rebocando o Veículo em Situações de Emergência"
+      ],
+      [
+        "ITPMS",
+        "Luz-Espia"
+      ],
+      [
+        "C-19",
+        "Luz-Espia"
+      ],
+      [
+        "12 Meses",
+        "Manutenção Programada"
+      ],
+      [
+        "Cooling Liquid",
+        "Digital Temperature Indicator"
+      ],
+      [
+        "Abertura Manual",
+        "Dispositivo de Segurança"
+      ],
+      [
+        "Freio de Estacionamento",
+        "Função \"Estacionamento\""
+      ],
+      [
+        "Sensores",
+        "Sistema de Assistência para Estacionamento"
+      ],
+      [
+        "Motor",
+        "Sistema de Monitoramento da Pressão dos Pneus"
+      ],
+      [
+        "Fiat",
+        "Manual"
+      ],
+      [
+        "Luz-Espia",
+        "Sistema HCSS para Partida a Frio"
+      ],
+      [
+        "Motor de Carro",
+        "Sistema de Aquecimento do Combustível"
+      ],
+      [
+        "Cinto de Segurança",
+        "Motorista"
+      ],
+      [
+        "Motor",
+        "Pneus Novos - Informações Gerais"
+      ],
+      [
+        "Freios",
+        "Transmissão"
+      ],
+      [
+        "Acessórios Aerodinâmicos",
+        "Carroceria"
+      ],
+      [
+        "Batteries",
+        "Brake Fluid"
+      ],
+      [
+        "Manutenção Adequada",
+        "Sistema de Descarga"
+      ],
+      [
+        "Líquido de Arrefecimento do Motor",
+        "Veículo"
+      ],
+      [
+        "Condutor",
+        "Regulagem em Altura dos Cintos Dianteiros"
+      ],
+      [
+        "Lâmpadas halógenas convencionais",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "Display LCD",
+        "Trip Computer"
+      ],
+      [
+        "Engate Para Reboque",
+        "Manual de Garantia"
+      ],
+      [
+        "Faróis Dianteiros",
+        "Vão do Motor"
+      ],
+      [
+        "Rede Assistencial Fiat",
+        "Sistema de Escapamento"
+      ],
+      [
+        "Nível do Óleo da Caixa de Câmbio",
+        "Verificações Periódicas"
+      ],
+      [
+        "A Lever",
+        "E-12"
+      ],
+      [
+        "CART",
+        "Central de Ajuda"
+      ],
+      [
+        "Cinturões de Segurança",
+        "Colisão"
+      ],
+      [
+        "ABS",
+        "iTPMS"
+      ],
+      [
+        "Abertura Manual",
+        "Maçaneta"
+      ],
+      [
+        "Motor do Veículo",
+        "Sistema de Bloqueio de Combustível"
+      ],
+      [
+        "Acidente",
+        "EDR"
+      ],
+      [
+        "Luzes de Teto Dianteiras",
+        "Sistema de Alarme Automotivo"
+      ],
+      [
+        "Alavanca Do Freio De Mão",
+        "Freio De Estacionamento"
+      ],
+      [
+        "Lâmpadas totalmente de vidro",
+        "Tipos de Lâmpadas"
+      ],
+      [
+        "Excessiva Temperatura do Líquido de Arrefecimento do Motor",
+        "Luz-Espia"
+      ],
+      [
+        "Ignition Key Position",
+        "Internal Lights"
+      ],
+      [
+        "Calibração",
+        "PRESSÃO DOS PNEUS"
+      ],
+      [
+        "Ampliação do Porta-Malas",
+        "Porta-Malas"
+      ],
+      [
+        "Bateria",
+        "Sensor IBS"
+      ],
+      [
+        "Chave A",
+        "Chaves Distribuídas"
+      ],
+      [
+        "Ar-Condicionado",
+        "Filtro do Ar-Condicionado"
+      ],
+      [
+        "Largura Nominal Do Pneu",
+        "Tipo De Construção"
+      ],
+      [
+        "Dispositivo de Retenção Infantil",
+        "Grupo 1"
+      ],
+      [
+        "Para-Sóis",
+        "veículo"
+      ],
+      [
+        "Trip Computer",
+        "Veículo"
+      ],
+      [
+        "G-23",
+        "Sistema Flex"
+      ],
+      [
+        "Avaria Airbag",
+        "Luz-Espia"
+      ],
+      [
+        "ASR (Anti Slip Regulation)",
+        "Fiat"
+      ],
+      [
+        "Alavanca de Direção",
+        "Faróis Altos"
+      ],
+      [
+        "Airbag",
+        "Cinturões de Segurança"
+      ],
+      [
+        "Plano de Manutenção Programada",
+        "Veículo"
+      ],
+      [
+        "Cooling Liquid",
+        "Tachometer"
+      ],
+      [
+        "Faróis de Neblina",
+        "Lampadas"
+      ],
+      [
+        "F003",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "DRL (Daytime Running Lights)",
+        "Faróis Baixos"
+      ],
+      [
+        "Climatizador",
+        "Veículo"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Temperatura"
+      ],
+      [
+        "Partida de Emergência",
+        "Veículo"
+      ],
+      [
+        "Motor de Carro",
+        "Temperatura Ideal"
+      ],
+      [
+        "Direção",
+        "Volante"
+      ],
+      [
+        "Pressão dos Pneus",
+        "Rodas e Pneus"
+      ],
+      [
+        "G-23",
+        "Sistemas de Proteção do Ambiente"
+      ],
+      [
+        "Plano de Manutenção Programada",
+        "Óleo do Motor"
+      ],
+      [
+        "H-8",
+        "Pressão dos Pneus"
+      ],
+      [
+        "Engate Para Reboque",
+        "Furação"
+      ],
+      [
+        "Frascos de Aerossol",
+        "Temperatura Superior a 50°C"
+      ],
+      [
+        "Gases de Descarga",
+        "Veículo"
+      ],
+      [
+        "Conjunto da Luz Interna",
+        "Lampadas"
+      ],
+      [
+        "Central Porta-Fusíveis",
+        "Fusíveis"
+      ],
+      [
+        "Entrada USB",
+        "acessórios elétricos"
+      ],
+      [
+        "12 meses",
+        "Fiat"
+      ],
+      [
+        "Luz-Espia",
+        "Líquido dos Freios"
+      ],
+      [
+        "H-6",
+        "Veículo"
+      ],
+      [
+        "Batteries",
+        "Cooling System"
+      ],
+      [
+        "F012",
+        "Fusíveis - Módulo 1"
+      ],
+      [
+        "H-13",
+        "Veículo"
+      ],
+      [
+        "Banco Traseiro",
+        "Inevitáveis Alavancas Laterais A"
+      ],
+      [
+        "Dados Técnicos",
+        "Pneus Reforçados"
+      ],
+      [
+        "Conversor Catalítico",
+        "Sistema de Escapamento"
+      ],
+      [
+        "Fuel Indicator",
+        "TRIP Button"
+      ],
+      [
+        "Controle Remoto",
+        "Veículo"
+      ],
+      [
+        "Bateria",
+        "Carregador de Bateria"
+      ],
+      [
+        "Luz-Espia",
+        "Temperatura do Líquido de Arrefecimento"
+      ],
+      [
+        "Acidente",
+        "Autoridades de Aplicação da Lei"
+      ]
+    ],
+    "count": 600,
+    "create_time": 1771335438,
+    "update_time": 1771335438,
+    "_id": "doc-e0e43d2647142b92af40cf711f51c843"
+  }
+}
