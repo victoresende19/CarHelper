@@ -9,3 +9,4 @@ google-adk
 litellm
 PyMuPDF
 python-dotenv
+faiss-cpu

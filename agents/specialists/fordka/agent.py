@@ -1,8 +1,7 @@
 # app_agents.py
 from __future__ import annotations
 from google.adk.tools.agent_tool import AgentTool
-from specialists.agent import SpecialistAgent
-from tools.query.fordka import query_fordka_database
+from agents.specialists.agent import SpecialistAgent
 
 fordKa = AgentTool(agent = SpecialistAgent(
         name="especialista_fordka",

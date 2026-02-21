@@ -1,8 +1,8 @@
 # app_agents.py
 from __future__ import annotations
 
-from plugins.ingestion import initialize_rag, index_file
-from plugins.retrieve import run_async_query
+from agents.plugins.ingestion import initialize_rag, index_file
+from agents.plugins.retrieve import run_async_query
 
 
 async def query_fiatmobi_database(query: str, mode: str = "mix") -> str:
