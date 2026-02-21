@@ -11,15 +11,16 @@ from google.adk.apps.app import App
 from google.adk.agents.context_cache_config import ContextCacheConfig
 from google.adk.tools.base_tool import BaseTool
 
-from recepcionist.agent import ReceptionistAgent
-from didactic.agent import DidacticAgent
-from security.agent import SecurityAgent
-from tom.agent import FinalAgent
+# Modifique estas linhas:
+from agents.recepcionist.agent import ReceptionistAgent
+from agents.didactic.agent import DidacticAgent
+from agents.security.agent import SecurityAgent
+from agents.tom.agent import FinalAgent
 
-from specialists.fordka.agent import fordKa
-from specialists.mobi.agent import fiatMobi
-from specialists.generalist.agent import generalista
-from tools.flows.done import mark_flow_done
+from agents.specialists.fordka.agent import fordKa
+from agents.specialists.mobi.agent import fiatMobi
+from agents.specialists.generalist.agent import generalista
+from agents.tools.flows.done import mark_flow_done
 
 
 class CarHelperMasterAgent(BaseAgent):
@@ -83,13 +84,8 @@ class CarHelperMasterAgent(BaseAgent):
         async for event in self.finalizer.run_async(ctx):
             yield event
 
-
-# =========================
-# 7) App with cache
-# =========================
 tools = [
     FunctionTool(func=mark_flow_done),
-    # FunctionTool(func=mark_quality_done),
     fordKa,
     fiatMobi,
     generalista,

@@ -1,7 +1,7 @@
 # app_agents.py
 from __future__ import annotations
 from google.adk.agents import LlmAgent
-from tools.config import configure_model
+from agents.tools.config import configure_model
 
 class SecurityAgent(LlmAgent):
     def __init__(self):

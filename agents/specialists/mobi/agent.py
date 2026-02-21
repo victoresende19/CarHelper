@@ -2,8 +2,7 @@
 # app_agents.py
 from __future__ import annotations
 from google.adk.tools.agent_tool import AgentTool
-from specialists.agent import SpecialistAgent
-from tools.query.mobi import query_fiatmobi_database
+from agents.specialists.agent import SpecialistAgent
 
 
 fiatMobi = AgentTool(agent = SpecialistAgent(
