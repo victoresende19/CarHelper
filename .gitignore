@@ -3,3 +3,4 @@
 *.venv/
 # Ignorar arquivos de configuração do ambiente virtual
 *.env
+*dialog.db

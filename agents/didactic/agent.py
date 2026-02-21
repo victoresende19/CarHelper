@@ -2,8 +2,8 @@ from __future__ import annotations
 from typing import List
 from google.adk.tools.base_tool import BaseTool
 from google.adk.agents import LlmAgent
-from tools.config import configure_model
-from tools.flows.quality import mark_quality_done
+from agents.tools.config import configure_model
+from agents.tools.flows.quality import mark_quality_done
 
 class DidacticAgent(LlmAgent):
     """

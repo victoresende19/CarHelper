@@ -1,8 +1,6 @@
-from tools.config import configure_model
-from google.adk.tools.base_tool import BaseTool
+from agents.tools.config import configure_model
 from google.adk.agents import LlmAgent
-from typing import List
-from tools.toolset import ManualToolset
+from agents.tools.toolset import ManualToolset
 
 class SpecialistAgent(LlmAgent):
     def __init__(
