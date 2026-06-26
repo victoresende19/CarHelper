@@ -62,7 +62,7 @@ A demanda **Novo contexto - Moto** descreve a seguinte necessidade:
 
 > Solicitação considerada: Criar contexto moto yamaha fazer 250
 
-## Proposta do Agente de Desenvolvimento
+## Development — versão 1
 
 ## Plano de desenvolvimento
 1. Confirmar os arquivos e contratos recuperados do repositório.
@@ -82,6 +82,14 @@ A demanda **Novo contexto - Moto** descreve a seguinte necessidade:
 - [ALVO DA DEMANDA] CarHelper: https://github.com/victoresende19/CarHelper | branch=main | linguagem=Python (100.00%) | última sincronização=2026-06-26 02:25:47.720736
 
 > Solicitação considerada: Criar contexto moto yamaha fazer 250
+
+## Proposta do Agente de Desenvolvimento
+
+Draft Pull Request criado para revisão humana:
+
+https://github.com/victoresende19/CarHelper/pull/5
+
+O merge e o deploy continuam bloqueados para decisão humana.
 
 ## Comentário da aprovação humana
 
